@@ -1,0 +1,1 @@
+This is improvement over shiffmans 'Shakespheare Monkey' ,I rewrote few of its functions to make it more effcient framework for genetic algorithm. 

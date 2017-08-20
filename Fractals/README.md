@@ -1,0 +1,1 @@
+This is an attempt on visualization of Mandelbrot Fractal and its Julian Set.

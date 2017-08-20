@@ -1,0 +1,1 @@
+From "6 Degrees of Kevin Bacon" I got an idea to create a relational finding app for game of throne. 
